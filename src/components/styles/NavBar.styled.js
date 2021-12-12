@@ -38,8 +38,8 @@ align-items: center;
 background-color: ${({theme}) => theme.colors.black};
 cursor: pointer;
 border: none;
-margin: 0.5rem 0;
-padding: 1.8rem;
+// margin: 0.5rem 0;
+padding: 1.5rem;
 border-radius: 5rem;
 
 &:hover{

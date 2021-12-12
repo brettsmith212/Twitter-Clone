@@ -1,10 +1,12 @@
 import React from "react";
 import {HomeContainer} from "./styles/Home.styled"
+import Tweet from "./home/Tweet"
 
 function Home() {
   return (
     <HomeContainer>
-      Home
+      <div><h3>Home</h3></div>
+      <Tweet />
     </HomeContainer>
   )
 }
