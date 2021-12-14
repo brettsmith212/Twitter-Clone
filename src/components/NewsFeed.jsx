@@ -5,7 +5,7 @@ function NewsFeed() {
 
   return (
     <NewsFeedContainer>
-    <h3>NewsFeed Column</h3>
+    <h3></h3>
     </NewsFeedContainer>
   )
 }

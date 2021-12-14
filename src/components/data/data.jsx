@@ -1,0 +1,36 @@
+export const data = 
+  [
+    {
+      id: 0,
+      displayName: "Brett Smith",
+      userName: "@brettsmth",
+      profileImg: "xyz.jpeg",
+      timeStamp: "12/12/2021",
+      tweetText: "The metaverse is not a Ready Player One world where the masses are mindlessly plugged into a giant matrix like universe. The metaverse is where our digital lives have real value that can be measured and carried into our physical lives ⚡️",
+      totalComments: "1k",
+      totalRetweets: "12.8k",
+      totalLikes: "85.6k",
+    },
+    {
+      id: 1,
+      displayName: "Brett Smith",
+      userName: "@brettsmth",
+      profileImg: "xyz.jpeg",
+      timeStamp: "12/6/2021",
+      tweetText: "Let's go! Also stoked about all the great things you can build with react. This twitter clone is one of them. Looks pretty close to the real thing right? Made it in dark mode only... of course 🤙",
+      totalComments: "266",
+      totalRetweets: "996",
+      totalLikes: "12.2k",
+    },
+    {
+      id: 2,
+      displayName: "Brett Smith",
+      userName: "@brettsmth",
+      profileImg: "xyz.jpeg",
+      timeStamp: "12/1/2021",
+      tweetText: "This is a tweet! Great to be here and tweeting. #Twitter",
+      totalComments: "801",
+      totalRetweets: "2.5k",
+      totalLikes: "22.3k",
+    },
+  ]
